@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <!--
 **Avetre/Avetre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###### 仓库状态统计
+![](https://github-readme-stats.vercel.app/api?username=Avetre&show_icons=true&theme=transparent)
+
+###### 主页访问量统计
+![Visitor_Count](https://profile-counter.glitch.me/Avetre.com/count.svg)
