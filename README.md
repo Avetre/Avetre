@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 仓库状态统计 -->
+![](https://github-readme-stats.vercel.app/api?username=Avetre&show_icons=true&theme=transparent)
+
+<!-- 主页访问量统计 -->
+![Visitor_Count](https://visitor-badge.laobi.icu/badge?page_id=Avetre.Avetre)
